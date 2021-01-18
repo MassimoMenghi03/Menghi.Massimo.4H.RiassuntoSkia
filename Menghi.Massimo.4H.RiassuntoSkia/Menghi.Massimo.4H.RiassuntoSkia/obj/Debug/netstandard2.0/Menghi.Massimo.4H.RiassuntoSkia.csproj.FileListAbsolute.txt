@@ -1,0 +1,14 @@
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\bin\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.deps.json
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\bin\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.dll
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\bin\Debug\netstandard2.0\ref\Menghi.Massimo.4H.RiassuntoSkia.dll
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\bin\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.pdb
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.csprojAssemblyReference.cache
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.AssemblyInfoInputs.cache
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.AssemblyInfo.cs
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.csproj.CoreCompileInputs.cache
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.dll
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\ref\Menghi.Massimo.4H.RiassuntoSkia.dll
+C:\Users\PorcoAllah\Desktop\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\Menghi.Massimo.4H.RiassuntoSkia\obj\Debug\netstandard2.0\Menghi.Massimo.4H.RiassuntoSkia.pdb
